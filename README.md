@@ -158,13 +158,13 @@ In this Module, we used Pandas to analyze the school district data. There are tw
 
     Math:
 
-    - 	Before: used the original student level data.        - 	After: Used the cleaned student level data. 
+    - 	Before: used the original student level data.        
 
-    ![ins27](https://user-images.githubusercontent.com/79289806/111886278-4679e400-89a3-11eb-80c7-e205e0f5b9b8.png)       ![ins28](https://user-images.githubusercontent.com/79289806/111886279-4679e400-89a3-11eb-8f9e-931816e806b9.png) 
-
-  
-
+    ![ins27](https://user-images.githubusercontent.com/79289806/111886278-4679e400-89a3-11eb-80c7-e205e0f5b9b8.png)     
     
+    - 	After: Used the cleaned student level data. 
+    
+    ![ins28](https://user-images.githubusercontent.com/79289806/111886279-4679e400-89a3-11eb-8f9e-931816e806b9.png) 
 
     The average scores for math across all grades are the same between the “Before” and “After” outputs except the 9th grade score in Thomas High School. This is expected since     we replace the 9th grade math score in Thomas High School with NaN at the beginning of the process. In the “After” output, we used the cleaned version of the student data. 
 
